@@ -124,9 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with love for the guitar community
 - Special thanks to all contributors
 
-## 📞 Support
-
-For support, email support@guitarchordapp.com or create an issue in this repository.
 
 ---
 
