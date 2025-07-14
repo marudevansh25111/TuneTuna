@@ -26,7 +26,6 @@ guitar-chord-app/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
-│   ├── middleware/
 │   └── server.js
 ├── frontend/
 │   ├── src/
